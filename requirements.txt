@@ -1,0 +1,13 @@
+streamlit
+streamlit-aggrid
+azure-core
+azure-identity
+azure-storage-blob
+azure-identity
+azure-keyvault-secrets
+#Cython==0.29.30
+#pandas
+#numpy
+seaborn
+matplotlib
+
